@@ -1,5 +1,4 @@
 ## Hi there 👋, I'm Avishi Patidar
-Branch: Artifical Intelligence And Machine Learning
-Year : First Year
-About me : I am passionate about Learning, and I hope to learn more about building smart and human like AI applications.
-
+Btech CSE with Artifical Intelligence And Machine Learning
+First Year
+My Goal is to Become an expert in AI and Machine Learning and build intelligent human like applications.
